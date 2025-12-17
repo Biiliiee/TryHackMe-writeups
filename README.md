@@ -33,3 +33,17 @@ e testes de penetração.
 
 Todo o conteúdo documentado neste repositório foi realizado **exclusivamente em ambientes
 controlados e educacionais**, respeitando princípios éticos e legais de segurança da informação.
+
+---
+
+## Metodologia de Estudo
+
+Os writeups seguem uma abordagem baseada em metodologias de testes de penetração,
+incluindo:
+
+- Reconhecimento
+- Enumeração
+- Identificação de vulnerabilidades
+- Exploração (nível educacional/conceitual)
+- Análise de impacto
+- Mitigação e boas práticas defensivas
