@@ -1,1 +1,5 @@
 Imagens educacionais do laboratório EternalBlue.
+
+
+
+<img width="747" height="318" alt="Image" src="https://github.com/user-attachments/assets/3db71261-dde5-48f6-9e2e-c4a5b8319db0" />
