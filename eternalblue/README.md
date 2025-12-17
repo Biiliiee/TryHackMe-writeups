@@ -45,3 +45,28 @@ incluindo:
 
 Toda a atividade descrita neste writeup foi realizada exclusivamente em ambiente controlado
 e educacional, respeitando princípios éticos e legais de segurança da informação.
+---
+
+## Pós-exploração (Visão Educacional)
+
+Após a exploração da vulnerabilidade, o laboratório permitiu observar os riscos associados
+à obtenção de acesso remoto não autorizado, como:
+
+- Possível execução de comandos com privilégios elevados
+- Exposição do sistema a persistência maliciosa
+- Potencial para movimentação lateral dentro da rede
+
+Esta etapa reforça a importância de compreender não apenas como a exploração ocorre,
+mas quais consequências práticas ela gera em ambientes corporativos.
+
+---
+
+## Mitigações Recomendadas
+
+Para reduzir ou eliminar os riscos associados à vulnerabilidade MS17-010, recomenda-se:
+
+- Aplicação dos patches de segurança fornecidos pela Microsoft
+- Desativação do protocolo SMBv1
+- Restrição de acesso à porta 445 através de firewall
+- Monitoramento de tráfego SMB para detecção de atividades anômalas
+- Segmentação de rede para limitar movimentação lateral
